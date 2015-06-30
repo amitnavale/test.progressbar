@@ -54,7 +54,7 @@ Feature overview:
 
 Following enhancements could have been done
 
-	1. Spilt Gruntfile.js into individual config files(grunt-config-factory)
+	1. Split Gruntfile.js into individual config files(grunt-config-factory)
 
 	2. Ship IISExpress to solution and run application with it
 
